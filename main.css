@@ -410,7 +410,7 @@ section {
 }
 .banner {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-    url(img/FITNESS\ CENTER\ _\ GYM.jpeg) no-repeat;
+    url(FITNESS\ CENTER\ _\ GYM.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
