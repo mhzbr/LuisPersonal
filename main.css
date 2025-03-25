@@ -34,8 +34,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-    background-image: url(fnd.png);
-    background-size: cover;
+    background: linear-gradient(to right, rgba(230, 248, 255, 0.5), rgba(128, 192, 255, 0.5));
 }
 
 section {
